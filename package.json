@@ -1,5 +1,5 @@
 {
-  "name": "vue3-component-library",
+  "name": "@gabrieldasilva/vue3-component-library",
   "version": "1.0.0",
   "description": "A vue 3 components package",
   "type": "module",
